@@ -28,7 +28,9 @@ Aspiring Software Engineer | Java Developer | DSA | SQL | DBMS | Web Development
 # 🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/saksham-verma-b64311349?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 📧 Email: sakshamvermasaksham439@gmail.com
+
 💻 GitHub: https://github.com/sakshamvermasaksham439-arch 
 
 
@@ -103,7 +105,9 @@ Git • GitHub • VS Code • Streamlit • Flask
 # 🌐 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/saksham-verma-b64311349?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+
 📧 Email: sakshamvermasaksham439@gmail.com 
+
 💻 GitHub: https://github.com/sakshamvermasaksham439-arch  
 
 
