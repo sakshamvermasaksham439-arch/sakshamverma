@@ -27,9 +27,9 @@ Aspiring Software Engineer | Java Developer | DSA | SQL | DBMS | Web Development
 
 # 🌐 Connect With Me
 
-🔗 LinkedIn: Your_Link  
-📧 Email: Your_Email  
-💻 GitHub: Your_GitHub_Link  
+🔗 LinkedIn: https://www.linkedin.com/in/saksham-verma-b64311349?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📧 Email: sakshamvermasaksham439@gmail.com
+💻 GitHub: https://github.com/sakshamvermasaksham439-arch 
 
 
 ---
@@ -102,9 +102,9 @@ Git • GitHub • VS Code • Streamlit • Flask
 
 # 🌐 Connect With Me
 
-🔗 LinkedIn: Your_Link  
-📧 Email: Your_Email  
-💻 GitHub: Your_GitHub_Link  
+🔗 LinkedIn: https://www.linkedin.com/in/saksham-verma-b64311349?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+📧 Email: sakshamvermasaksham439@gmail.com 
+💻 GitHub: https://github.com/sakshamvermasaksham439-arch  
 
 
 ---
@@ -131,9 +131,7 @@ Git • GitHub • VS Code • Streamlit • Flask
 
 # 🚀 Projects
 
-🔹 AI Interview Preparation System  
-🔹 AI Roadmap Generator  
-🔹 Web Development Projects  
+🔹 AI Interview Preparation System    
 🔹 Machine Learning Projects  
 
 
