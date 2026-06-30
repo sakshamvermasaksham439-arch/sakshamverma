@@ -59,8 +59,6 @@ Git • GitHub • VS Code • Streamlit • Flask
 # 🚀 Projects
 
 🔹 AI Interview Preparation System  
-🔹 AI Roadmap Generator  
-🔹 Web Development Projects  
 🔹 Machine Learning Projects  
 
 
@@ -154,3 +152,22 @@ Git • GitHub • VS Code • Streamlit • Flask
 <h3 align="center">
 ⭐ Thanks for visiting! Have a great day 🚀
 </h3>
+
+# 🚀 Featured Project
+
+## 🤖 AI Interview Preparation System
+
+✅ AI-powered interview preparation platform  
+
+✅ Generates interview questions based on skills and roles  
+
+✅ Helps users practice technical & HR interview preparation  
+
+✅ Built using Python, AI concepts & Streamlit  
+
+✅ Provides smart learning experience for job preparation 🚀
+
+
+🔗 Project Link:
+
+👉 git@github.com:sakshamvermasaksham439-arch/AI-Interview-Preparation-System.git
