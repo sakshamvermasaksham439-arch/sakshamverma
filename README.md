@@ -98,4 +98,4 @@ Git • GitHub • VS Code • Streamlit • Flask
 
 🔗 Project Link:
 
-👉 git@github.com:sakshamvermasaksham439-arch/AI-Interview-Preparation-System.git
+👉 https://github.com/sakshamvermasaksham439-arch
