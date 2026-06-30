@@ -1,10 +1,7 @@
 <h1 align="center">Hey 👋, I'm Saksham Verma</h1>
 
 <h3 align="center">
-<h1 align="center">Hey 👋, I'm Saksham Verma</h1>
-
-<h3 align="center">
-AI & Data Science Enthusiast • Machine Learning • Full Stack Learner 🚀
+Aspiring Software Engineer | Java Developer | DSA | SQL | DBMS | Web Development | Python | Problem Solving | Open to Learning & Collabration
 </h3>
 
 ---
