@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Saksham Verma</h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Java Developer | DSA | SQL | DBMS | Web Development | Python | Problem Solving | Open to Learning & Collabration
+Aspiring Software Engineer | Java Developer | DSA | SQL | DBMS | Web Development | Python | MongoDB | Problem Solving | Open to Learning & Collabration
 </h3>
 
 ---
